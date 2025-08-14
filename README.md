@@ -40,7 +40,7 @@ The layout adapts seamlessly across devices (desktop, tablet, mobile) using Boot
 
 ## 🚀 How to Run the Project
 **Option 1: View Live Demo**
-- [Live Demo Link](https://KiranR.github.io/bootstrap5-website) *(Replace with your actual GitHub Pages link if hosted)*
+- [Live Demo Link](https://mrkiranr.github.io/bootstrap5-website/) 
 
 **Option 2: Run Locally**
 1. Clone this repository:
